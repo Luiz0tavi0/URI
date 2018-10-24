@@ -1,4 +1,4 @@
-/*ATIVIDADE URI - 1041*/
+//ATIVIDADE URI - 1041
 #include<stdio.h>
 main(void){
 	float x, y;
